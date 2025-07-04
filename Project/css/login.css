@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.shiki {
+    text-align: center;
+}
+
+.emaili {
+    margin-right: 317.8px;
+}
+
+.conti {
+    text-decoration: none;
+    margin-left: 750px;
+    background-color: #01BAB3;
+    color: white;
+    padding: 13.15px 164px;
+    border-radius: 4px;
+}
+
+.are {
+    margin-top: 87.23px;
+}
+
+.gio {
+    margin-top: 97.53px;
+    margin-left: 770px;
+}

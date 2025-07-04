@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    margin-top: 24px;
+}
+
+.cl {
+    margin-top: 55px;
+    text-align: center;
+    margin-right: 256px;
+}
+
+.pa {
+    margin-bottom: 8px;
+    margin-right: 110px;
+}
+
+.it {
+    width: 200px;
+    height: 48px;
+    border: 1px solid #D9D9D9;
+    border-radius: 4px;
+    padding-left: 16px;
+}
+
+.txi {
+    display: flex;
+    gap: 23px;
+    margin-left: 760px;
+}
+
+.frok {
+    display: flex;
+    margin-left: 760px;
+    gap: 16px;
+}
+
+.iti {
+    width: 200px;
+    border-radius: 4px;
+}
+
+.cp {
+    text-align: center;
+    margin-top: 24px;
+}
+
+.bi {
+    margin-right: 330px;
+    margin-bottom: 9.36px;
+}
+
+.iki {
+    display: flex;
+}
+
+.da {
+    width: 416px;
+    height: 48px;
+    padding-left: 16px;
+    border-radius: 4px;
+    margin-left: 760px;
+    background-image: url(../images/Icon.svg);
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+
+.ge {
+    text-align: center;
+    margin-top: 24px;
+    margin-right: 345px;
+}
+
+.gi {
+    margin-bottom: 8px;
+}
+
+.conti {
+    width: 200px;
+    margin-top: 24px;
+    padding: 12px 160px;
+    text-decoration: none;
+    color: white;
+    background-color: #01BAB3;
+    margin-left: 758px;
+    border-radius: 4px;
+}
+
+.are {
+    margin-top: 24px;
+}
+
+.end {
+    text-decoration: none;
+    color: #000000A6;
+    margin-top: 104px;
+    text-align: center;
+}
+
+.par {
+    padding-top: 104px;
+}
+
+.si {
+    border: 1px solid #D9D9D9;
+    padding: 24px;
+    display: inline-block;
+    border-radius: 4px;
+}
